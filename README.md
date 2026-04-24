@@ -1,6 +1,6 @@
 Blame
 🏨 Hotel Booking Demand Forecasting
-Time series forecasting of hotel booking demand using ARIMA and SARIMA models in Python — M.Sc. Statistics Final Year Project
+Time series forecasting of hotel booking demand using ARIMA and SARIMA models in Python — M.Sc. Statistics Final Year Project under supervision of Dr.Rohtash Bhardwaj 
 
 📌 Project Overview
 Hotel businesses depend heavily on accurate demand forecasting to manage staffing, pricing, and inventory. This project applies classical time series models to forecast monthly hotel booking demand using real-world reservation data from Portuguese hotels (2015–2017).
